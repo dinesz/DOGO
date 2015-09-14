@@ -16,6 +16,6 @@ features list:
  - page prev/next on right and left arrow press
  - play videos click on the item
  - add button to show recently watched videos
- - display list of views of every videos
+ - display hit list
  - upgrade user interface
  - real full screen
